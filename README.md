@@ -21,11 +21,18 @@ See [https://reactbricks.com](https://reactbricks.com)
 |          `File→` | Add a React Bricks `<File>` component               |
 |      `Repeater→` | Add a React Bricks `<Repeater>` component           |
 
+## Snippets Under Development
+
+|   Prefix | Method                                  |
+| -------: | --------------------------------------- |
+| `Iframe` | Add a React Bricks `<Iframe>` component |
+| `Video→` | Add a React Bricks `<Video>` component  |
+
 ## Requirements
 
 In order to have working React Bricks' bricks, you need to have a React Bricks project set up.
 
-You can easily create a project using the React Bricks CLI:  
+You can easily create a project using the React Bricks CLI:
 `npx create-reactbricks-app`
 
 ## Release Notes
